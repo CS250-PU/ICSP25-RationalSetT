@@ -11,16 +11,16 @@
 /*
 In RationalSet 
 
-TODO #1: Implement the default constuctor, then uncomment line
-         XX and XX and run. Commit and push.
+TODO #1: Implement the default constuctor, then uncomment lines
+         28 and 32, then run. Commit and push.
 
-TODO #2: Implement size. Uncomment lines XX to XX. Commit and
+TODO #2: Implement size. Uncomment lines 59 to 61, then run. Commit and
          push.  
 
 TODO #3: Implement write using a range based for loop. Uncomment lines
-         XX to XX. Commit and push.
+         62 to 64, then run. Commit and push.
 
-TODO #4: Implement add and uncomment lines XX to XX. Commit and push.
+TODO #4: Implement add and uncomment remaining lines, then run. Commit and push.
 */
 #include <iostream>
 #include <string>
