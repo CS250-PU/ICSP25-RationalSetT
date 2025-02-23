@@ -12,7 +12,7 @@ bin:
 	mkdir -p bin
 
 bin/main.exe: bin src/*.cpp
-	${CPP_COMPILER} ${CFLAGS} -std=${CPP_VERSION} -o bin/main.exe src/*.cpp -Iinclude
+	${CPP_COMPILER} ${CFLAGS} -std=${CPP_VERSION} -o bin/main.exe src/*.cpp
 
 runMe: bin/main.exe
 	bin/main.exe
